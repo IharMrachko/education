@@ -1,4 +1,4 @@
-package education.by.traineng.task1112;
+package education.by.training.task1112;
 
 public class Bird implements Fly {
    int wave;

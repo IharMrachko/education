@@ -1,4 +1,4 @@
-package education.by.traineng;
+package education.by.training;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
